@@ -7,8 +7,8 @@ O objetivo deste projeto é criar uma aplicação simples para calcular a média
 ### Como Funciona
 
 1. O sistema recebe o nome e as notas de cada atleta.
-2. Ordena as notas, elimina a maior e a menor.
-3. Calcula a média das três notas restantes.
+2. Ordena as notas, eliminando a maior e a menor.
+3. Calcula a soma das três notas restantes e a média delas.
 4. Exibe o nome do atleta, as notas e a média calculada.
 
 ## Como Rodar o Projeto
