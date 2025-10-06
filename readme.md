@@ -19,4 +19,4 @@ Basta executar o código em qualquer compilador JavaScript. Não há dependênci
 
 1. **Clone ou baixe o repositório:**
    ```bash
-   git clone https://github.com/nomedeusuario/notas-atletas.git
+   git clone https://github.com/NicolasMO/notas-atletas.git
